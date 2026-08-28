@@ -1,5 +1,7 @@
 {
-  "type":"tipsmod:simple",
-  "text": "Press Z to zoom in!",
-  "color": "white"
+  "type": "tipsmod:simple",
+  "color": "white",
+  "text": {
+    "translate": "tip.fractured.zoom"
+  }
 }

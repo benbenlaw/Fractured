@@ -1,5 +1,7 @@
 {
-  "type":"tipsmod:simple",
-  "text": "Join the discord! Use /discord in game",
-  "color": "white"
+  "type": "tipsmod:simple",
+  "color": "white",
+  "text": {
+    "translate": "tip.fractured.ben"
+  }
 }
