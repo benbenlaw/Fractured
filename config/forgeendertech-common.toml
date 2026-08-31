@@ -11,7 +11,7 @@ debug = false
 	#Maximum length of the vent pipe for smoke or gas transmition
 	# Default: 32
 	# Range: 1 ~ 64
-	maxVentPipeLength = 32
+	ventDuctLength = 32
 	#Maximum distance from vent to the gas block to be sucked in
 	# Default: 4
 	# Range: 1 ~ 16
