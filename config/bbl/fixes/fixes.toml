@@ -8,9 +8,13 @@
 	"Enable PortalJS fix" = false
 	#Prevent Block Breaker from breaking bedrock and other unbreakable blocks, requires Opolis Utilities mod, default = false
 	"Enable Block Breaker fix" = false
-	#Prevent vanilla buckets obtaining a purity tag when collected in world with Thirst Was Taken Mod, requires Thirst Was Taken, default = false
+	#Prevent vanilla buckets obtaining a purity tag when collected in world with Thirst Was Reclaimed Mod, requires Thirst Was Reclaimed, default = false
 	"Enable bucket fix" = true
 	#Changes height level check for Derrick from Immersive Petroleum to prevent water from levels below 64
-	"Enable Immersive Petroleum fix" = true
+	"Enable Immersive Petroleum fix" = false
 	#Fixed Distillation Tower recipe output disappearing after some time
 	"Enable Immersive Petroleum Distillation Tower fix" = true
+	#Stops Just Dire Things machines keeping their items in the dropped block when they also drop them, fixes dupes with explosions and block breakers, requires Just Dire Things, default = false
+	"Enable Just Dire Things dupe fix" = false
+	#Stops the Just Dire Things Fluid Collector filling stacked fluid containers, which filled every container in the stack for the price of one, requires Just Dire Things, default = false
+	"Enable Just Dire Things fluid collector fix" = false
